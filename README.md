@@ -2,15 +2,15 @@
 
 This IQ Option Trading Bot is designed to automate trading strategies on the IQ Option platform. It provides multiple trading strategies, allows for customized settings, and helps automate trades based on predefined rules. The bot can be used for training accounts to simulate trades before using a real account.
 
-## Features
+## :star2: Features
 
-### Strategy Selection
+### :chart_with_upwards_trend: Strategy Selection
 Choose from multiple trading strategies:
 - **Official Strategy - M1**
 - **Inverted Official Strategy - M1**
 - **Official Strategy in M5**
 
-### Account and Trade Settings
+### :gear: Account and Trade Settings
 - **Account Type**: Training account with an initial balance.
 - **Initial Bank**: Starting balance of the account.
 - **Delay**: Set delay between actions (default is 1 second).
@@ -26,24 +26,27 @@ Choose from multiple trading strategies:
 
 # :notebook_with_decorative_cover: Table of Contents
 
+- [Features](#star2-features)
 - [About the Project](#star2-about-the-project)
 - [Contact](#handshake-contact)
 
-
 ## :star2: About the Project
+
 ### :space_invader: Tech Stack
-<details> <summary>Client</summary> <ul>
-<li><a href="">Python</a></li>
-</ul> </details>
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="#">Python</a></li>
+  </ul>
+</details>
 
 ### :dart: Features
 - Official Strategy - M1
 - Inverted Official Strategy - M1
 - Official Strategy in M5
 
-
 ## :handshake: Contact
 
-Shivam Kumar - - sh913516@gmail.com
+Shivam Kumar - sh913516@gmail.com
 
 Project Link: [https://github.com/shiva2312/IQ-Option-Bot](https://github.com/shiva2312/IQ-Option-Bot)
