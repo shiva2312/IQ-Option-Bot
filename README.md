@@ -1,8 +1,6 @@
 # IQ Option Trading Bot [![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://futuretradebot.gumroad.com/l/BINARYOPTIONSCODE)
 
-<p style="background-color: #f8f9fa; padding: 20px; border-radius: 10px;">
 This IQ Option Trading Bot is designed to automate trading strategies on the IQ Option platform. It provides multiple trading strategies, allows for customized settings, and helps automate trades based on predefined rules. The bot can be used for training accounts to simulate trades before using a real account.
-</p>
 
 # :notebook_with_decorative_cover: Table of Contents
 
@@ -13,15 +11,12 @@ This IQ Option Trading Bot is designed to automate trading strategies on the IQ 
 ## :star2: Features
 
 ### :chart_with_upwards_trend: Strategy Selection
-<p style="background-color: #f8f9fa; padding: 10px; border-radius: 10px;">
 Choose from multiple trading strategies:
 - **Official Strategy - M1**
 - **Inverted Official Strategy - M1**
 - **Official Strategy in M5**
-</p>
 
 ### :gear: Account and Trade Settings
-<p style="background-color: #f8f9fa; padding: 10px; border-radius: 10px;">
 - **Account Type**: Training account with an initial balance.
 - **Initial Bank**: Starting balance of the account.
 - **Delay**: Set delay between actions (default is 1 second).
@@ -34,29 +29,24 @@ Choose from multiple trading strategies:
 - **Martingale**: Option to enable or disable Martingale strategy.
 - **Serums**: Option to enable or disable serums for trade adjustments.
 - **Backtest**: Option to enable or disable backtesting to evaluate strategy performance.
-</p>
 
 ## :star2: About the Project
 
 ### :space_invader: Tech Stack
-<p style="background-color: #f8f9fa; padding: 10px; border-radius: 10px;">
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-</p>
 
 ### :dart: Features
-<p style="background-color: #f8f9fa; padding: 10px; border-radius: 10px;">
 - Official Strategy - M1
 - Inverted Official Strategy - M1
 - Official Strategy in M5
-</p>
+
+## :framed_picture: Image Section
+
+![IQ Option Trading Bot]([https://example.com/image-link](https://github.com/shiva2312/IQ-Option-Bot/blob/d46a96fdac004824174686f9905b547975efc49b/Main_Application.png))
 
 ## :handshake: Contact
 
-<p style="background-color: #f8f9fa; padding: 10px; border-radius: 10px;">
 Shivam Kumar - sh913516@gmail.com
-
-Project Link: [https://github.com/shiva2312/IQ-Option-Bot](https://github.com/shiva2312/IQ-Option-Bot)
-</p>
 
 <div align="center">
   <a href="https://github.com/shiva2312/IQ-Option-Bot/archive/refs/heads/main.zip">
