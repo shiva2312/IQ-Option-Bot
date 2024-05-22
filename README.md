@@ -1,5 +1,6 @@
 # IQ Option Trading Bot [![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://futuretradebot.gumroad.com/l/BINARYOPTIONSCODE)
 
+
 This IQ Option Trading Bot is designed to automate trading strategies on the IQ Option platform. It provides multiple trading strategies, allows for customized settings, and helps automate trades based on predefined rules. The bot can be used for training accounts to simulate trades before using a real account.
 
 # :notebook_with_decorative_cover: Table of Contents
@@ -43,6 +44,7 @@ Choose from multiple trading strategies:
 ## :framed_picture: Image Section
 
 ![IQ Option Trading Bot](https://github.com/shiva2312/IQ-Option-Bot/blob/main/Main_Application.png)
+
 
 ## :handshake: Contact
 
