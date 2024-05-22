@@ -2,6 +2,12 @@
 
 This IQ Option Trading Bot is designed to automate trading strategies on the IQ Option platform. It provides multiple trading strategies, allows for customized settings, and helps automate trades based on predefined rules. The bot can be used for training accounts to simulate trades before using a real account.
 
+# :notebook_with_decorative_cover: Table of Contents
+
+- [Features](#star2-features)
+- [About the Project](#star2-about-the-project)
+- [Contact](#handshake-contact)
+
 ## :star2: Features
 
 ### :chart_with_upwards_trend: Strategy Selection
@@ -24,21 +30,10 @@ Choose from multiple trading strategies:
 - **Serums**: Option to enable or disable serums for trade adjustments.
 - **Backtest**: Option to enable or disable backtesting to evaluate strategy performance.
 
-# :notebook_with_decorative_cover: Table of Contents
-
-- [Features](#star2-features)
-- [About the Project](#star2-about-the-project)
-- [Contact](#handshake-contact)
-
 ## :star2: About the Project
 
 ### :space_invader: Tech Stack
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="#">Python</a></li>
-  </ul>
-</details>
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### :dart: Features
 - Official Strategy - M1
@@ -50,3 +45,5 @@ Choose from multiple trading strategies:
 Shivam Kumar - sh913516@gmail.com
 
 Project Link: [https://github.com/shiva2312/IQ-Option-Bot](https://github.com/shiva2312/IQ-Option-Bot)
+
+[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://futuretradebot.gumroad.com/l/BINARYOPTIONSCODE)
