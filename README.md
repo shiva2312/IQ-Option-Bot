@@ -51,12 +51,6 @@ Watch the tutorial on YouTube: [![YouTube](https://img.shields.io/badge/Watch%20
 ### :globe_with_meridians: Website
 Visit our website: [![Website](https://img.shields.io/badge/Visit%20Website-blue?logo=internet-explorer)](https://futuretradebot.netlify.app/)
 
-### :tv: YouTube
-Watch the tutorial on YouTube: <a href="https://www.youtube.com/channel/UCw8iPSB4NJr2JkRifmknoRQ" target="_blank"><img src="https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube" alt="YouTube"></a>
-
-### :globe_with_meridians: Website
-Visit our website: <a href="https://futuretradebot.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Visit%20Website-blue?logo=internet-explorer" alt="Website"></a>
-
 ## :handshake: Contact
 
 Shivam Kumar - sh913516@gmail.com
