@@ -47,7 +47,8 @@ Shivam Kumar - sh913516@gmail.com
 Project Link: [https://github.com/shiva2312/IQ-Option-Bot](https://github.com/shiva2312/IQ-Option-Bot)
 
 <div align="center">
-  <a href="https://futuretradebot.gumroad.com/l/BINARYOPTIONSCODE">
-    <img src="https://img.shields.io/badge/Download-Now-brightgreen" style="font-size: 20px; padding: 10px 20px; border-radius: 5px;" alt="Download Now">
+  <a href="https://github.com/shiva2312/IQ-Option-Bot/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/badge/Download-Now-brightgreen" style="font-size: 30px; padding: 15px 30px; border-radius: 5px;" alt="Download Now">
   </a>
 </div>
+
