@@ -42,7 +42,7 @@ Choose from multiple trading strategies:
 
 ## :framed_picture: Image Section
 
-![IQ Option Trading Bot]([https://example.com/image-link](https://github.com/shiva2312/IQ-Option-Bot/blob/d46a96fdac004824174686f9905b547975efc49b/Main_Application.png))
+![IQ Option Trading Bot](https://github.com/shiva2312/IQ-Option-Bot/blob/main/Main_Application.png)
 
 ## :handshake: Contact
 
