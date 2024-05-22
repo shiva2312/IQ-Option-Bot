@@ -44,11 +44,10 @@ Choose from multiple trading strategies:
 
 Shivam Kumar - sh913516@gmail.com
 
-Project Link: [https://github.com/shiva2312/IQ-Option-Bot](https://github.com/shiva2312/IQ-Option-Bot)
-
 <div align="center">
-  <a href="https://github.com/shiva2312/IQ-Option-Bot/archive/refs/heads/main.zip">
-    <img src="https://img.shields.io/badge/Download-Now-brightgreen" style="font-size: 30px; padding: 15px 30px; border-radius: 5px;" alt="Download Now">
+  <a href="https://github.com/shiva2312/IQ-Option-Bot/archive/refs/heads/main.zip" style="font-size: 24px; padding: 20px 40px; display: inline-block; background-color: #4CAF50; color: white; text-align: center; text-decoration: none; border-radius: 5px;">
+    Download Now
   </a>
 </div>
+
 
