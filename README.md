@@ -46,10 +46,10 @@ Choose from multiple trading strategies:
 ![IQ Option Trading Bot](https://github.com/shiva2312/IQ-Option-Bot/blob/main/Main_Application.png)
 
 ### :tv: YouTube
-Watch the tutorial on YouTube: [![YouTube](https://www.youtube.com/channel/UCw8iPSB4NJr2JkRifmknoRQ)
+Watch the tutorial on YouTube: [![YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube)](https://www.youtube.com/channel/UCw8iPSB4NJr2JkRifmknoRQ)
 
 ### :globe_with_meridians: Website
-Visit our website: [![Website](https://img.shields.io/badge/Visit%20Website-blue?logo=internet-explorer)]([https://www.example.com](https://futuretradebot.netlify.app/))
+Visit our website: [![Website](https://img.shields.io/badge/Visit%20Website-blue?logo=internet-explorer)](https://futuretradebot.netlify.app/)
 
 ## :handshake: Contact
 
