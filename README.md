@@ -1,6 +1,6 @@
 # IQ-Option-Bot
 
-<div align='center'>
+
 
 <h1>IQ Option Trading Bot</h1>
 <p>This IQ Option Trading Bot is designed to automate trading strategies on the IQ Option platform. It provides multiple trading strategies, allows for customized settings, and helps automate trades based on predefined rules. The bot can be used for training accounts to simulate trades before using a real account.</p>
@@ -33,7 +33,7 @@
 </ul>
 
 
-</div>
+
 
 # :notebook_with_decorative_cover: Table of Contents
 
